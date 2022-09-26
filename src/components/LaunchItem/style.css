@@ -1,0 +1,13 @@
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: repeat(auto-fill, minmax(375px, 1fr));
+  grid-gap: 15px;
+  grid-auto-rows: 375px;
+  margin-bottom: 20px;
+  margin-top: 10px
+};
+
+
+
+
+
